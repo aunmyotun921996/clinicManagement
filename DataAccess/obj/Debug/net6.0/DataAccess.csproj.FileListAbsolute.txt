@@ -1,0 +1,17 @@
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\Domain.dll
+F:\Learn\Microservices\ClinicManagement\DataAccess\bin\Debug\net6.0\Domain.pdb
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+F:\Learn\Microservices\ClinicManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

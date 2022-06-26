@@ -1,0 +1,14 @@
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.deps.json
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.runtimeconfig.json
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.csproj.AssemblyReference.cache
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.AssemblyInfoInputs.cache
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.AssemblyInfo.cs
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.csproj.CoreCompileInputs.cache
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\refint\Booking.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.genruntimeconfig.cache
+F:\Learn\Microservices\ClinicManagement\Booking.DataAccess\obj\Debug\net6.0\ref\Booking.DataAccess.dll

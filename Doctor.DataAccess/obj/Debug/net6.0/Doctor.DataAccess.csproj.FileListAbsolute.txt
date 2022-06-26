@@ -1,0 +1,14 @@
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\bin\Debug\net6.0\Doctor.DataAccess.deps.json
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\bin\Debug\net6.0\Doctor.DataAccess.runtimeconfig.json
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\bin\Debug\net6.0\Doctor.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\bin\Debug\net6.0\Doctor.DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.csproj.AssemblyReference.cache
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.AssemblyInfoInputs.cache
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.AssemblyInfo.cs
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.csproj.CoreCompileInputs.cache
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\refint\Doctor.DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\Doctor.DataAccess.genruntimeconfig.cache
+F:\Learn\Microservices\ClinicManagement\Doctor.DataAccess\obj\Debug\net6.0\ref\Doctor.DataAccess.dll

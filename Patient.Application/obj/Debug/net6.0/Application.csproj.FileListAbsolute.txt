@@ -1,0 +1,17 @@
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\Application.deps.json
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\Application.dll
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\Application.pdb
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\DataAccess.dll
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\Domain.dll
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\DataAccess.pdb
+F:\Learn\Microservices\ClinicManagement\Patient.Application\bin\Debug\net6.0\Domain.pdb
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.dll
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\refint\Application.dll
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\Application.pdb
+F:\Learn\Microservices\ClinicManagement\Patient.Application\obj\Debug\net6.0\ref\Application.dll
